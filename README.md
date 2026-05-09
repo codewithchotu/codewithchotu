@@ -78,10 +78,15 @@
 <a href="mailto:mo0322975@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+<a href="https://instagram.com/owais_0_0_0" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 </p>
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mohd-owais-b10b76370/
 - 📧 Email: mo0322975@gmail.com
+- 📸 Instagram: https://instagram.com/owais_0_0_0
 
 ---
 
