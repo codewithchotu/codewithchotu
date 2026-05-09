@@ -60,14 +60,16 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithchotu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithchotu&show_icons=true&theme=github_dark" />
 </p>
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codewithchotu/codewithchotu/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/codewithchotu/codewithchotu/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
 </p>
 
 ---
