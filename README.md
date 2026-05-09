@@ -13,7 +13,7 @@
 
 # 🚀 About Me
 
-- 🎓 CSE Student at **MVSR Engineering College**
+- 🎓 IT Student at **MVSR Engineering College**
 - 💻 Passionate about **Full Stack Web Development**
 - 🌱 Currently learning **MERN Stack & Open Source**
 - 🚀 Contributor at **GirlScript Summer of Code 2026**
