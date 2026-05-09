@@ -65,13 +65,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithchotu&show_icons=true&theme=github_dark" />
 </p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/codewithchotu/codewithchotu/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=codewithchotu&show_icons=true&theme=github_dark" />
 ---
 
 # 🏆 GitHub Trophies
