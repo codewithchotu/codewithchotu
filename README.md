@@ -63,12 +63,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithchotu&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithchotu&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithchotu&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithchotu&layout=compact&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/codewithchotu/codewithchotu/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
