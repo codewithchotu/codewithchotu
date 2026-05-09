@@ -71,7 +71,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/mohd-owais-b10b76370/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -79,6 +79,9 @@
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mohd-owais-b10b76370/
+- 📧 Email: mo0322975@gmail.com
 
 ---
 
