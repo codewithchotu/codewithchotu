@@ -14,6 +14,7 @@
 # 🚀 About Me
 
 - 🎓 IT Student at **MVSR Engineering College**
+- current global rank #359 in gssoc outof 41k contributors
 - 💻 Passionate about **Full Stack Web Development**
 - 🌱 Currently learning **MERN Stack & Open Source**
 - 🚀 Contributor at **GirlScript Summer of Code 2026**
