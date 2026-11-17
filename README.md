@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Google+Student+Ambassador+2026;Building+Something+Amazing+%F0%9F%9A%80"/>
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
