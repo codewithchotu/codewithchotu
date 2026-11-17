@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast | Open Source Contributor 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Google+Student+Ambassador+2026;Building+Something+Amazing+%F0%9F%9A%80"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:4776E6,100:8E44AD&height=200&section=header&text=Mohd%20Owais&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18"/>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
