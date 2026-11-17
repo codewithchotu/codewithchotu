@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohd Owais</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | MERN Stack Learner 🚀</h3>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Open Source Contributor 🚀</h3>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Learner;Building+Real+World+Projects+🚀;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Google+Student+Ambassador+2026;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
@@ -13,57 +14,88 @@
 
 # 🚀 About Me
 
-- 🎓 IT Student at **MVSR Engineering College**
-- current global rank #359 in gssoc out of 41k contributors
-- 💻 Passionate about **Full Stack Web Development**
-- 🌱 Currently learning **MERN Stack & Open Source**
-- 🚀 Contributor at **GirlScript Summer of Code 2026**
-- 🔥 Interested in building impactful real-world projects
-- ⚡ Love solving problems and exploring new technologies
+- 🎓 B.Tech Information Technology Student at **MVSR Engineering College, Hyderabad**.
+- 💻 Full Stack Developer passionate about building real-world applications.
+- 🤖 Exploring Artificial Intelligence, Machine Learning & Deep Learning.
+- 🌍 Open Source Contributor at **GirlScript Summer of Code 2026**.
+- 🏅 Ranked **#359 globally among 41,000+ participants** in GSSoC'26.
+- 🌟 Selected as a **Google Student Ambassador 2026**.
+- 🏆 Hackathon Winner – Althon 2.0 at MVSR Engineering College.
+- ☁️ Exploring Cloud-Native Technologies through Meshery and Kubernetes.
+- 🎯 Interested in GSoC, LFX Mentorship and impactful open-source projects.
 
 ---
 
+
 # 💻 Tech Stack
 
-## 🚀 Frontend
+### 🚀 Frontend Development
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-## ⚙️ Backend
+### ⚙️ Backend & Database
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-## 🛠️ Tools & Platforms
+### 🤖 AI / ML & Data Science
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meshery-3CBFAE?style=for-the-badge&logo=layer5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
+
 # 🌟 Open Source Journey
 
-- 🚀 Started contributing to Open Source in 2026
-- ✅ Created my first Pull Request on GitHub
-- 💡 Contributor at **GSSoC 2026**
-- 📚 Learning collaboration and development workflows
-- 🔥 Consistently improving my development skills
+- 🚀 Contributing to open-source projects and communities.
+- 🏅 Ranked #359 globally in GirlScript Summer of Code 2026.
+- 💻 Contributed to projects including Accord Project and PictoPy.
+- 🔧 Working with Git, GitHub, pull requests and collaborative development.
+- 🌱 Exploring opportunities in GSoC and LFX Mentorship.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codewithchotu&show_icons=true&theme=tokyonight)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithchotu&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithchotu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 # 🏆 GitHub Trophies
 
@@ -79,12 +111,20 @@
 
 ---
 
-# 📌 Featured Projects
+# 🏆 Achievements & Recognition
 
-🚑 Blood Donation Management System  
-🌐 Full Stack MERN Applications  
-📂 Open Source Contributions  
-💻 Portfolio & Web Development Projects
+- 🌟 **Google Student Ambassador 2026**
+- 🏅 **GSSoC 2026** – Ranked #359 globally among 41,000+ participants.
+- 🥇 **Althon 2.0 Hackathon Winner** – Team Debuggers, MVSR Engineering College (80+ teams).
+- ☁️ **Layer5 Meshery – First Design Badge** – Created a Cloud-Native MERN Application Architecture.
+
+- <h3 align="center">☁️ Layer5 Meshery Achievement</h3>
+
+<p align="center">
+  <a href="https://cloud.layer5.io/user/83274eff-8474-448c-85ad-3a7c55872892?tab=badges&badge=first-design">
+    <img width="175" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Layer5 First Design Badge"/>
+  </a>
+</p>
 
 ---
 
