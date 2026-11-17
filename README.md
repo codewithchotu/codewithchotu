@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohd Owais</h1>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast | Open Source Contributor 🚀</h3>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Google+Student+Ambassador+2026;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Google+Student+Ambassador+2026;Building+Something+Amazing+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
@@ -145,7 +144,7 @@
 </p>
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mohd-owais-b10b76370/
-- 📧 Email: mo0322975@gmail.com
+- 📧 Email: hieowais123@gmail.com
 - 📸 Instagram: https://instagram.com/owais_0_0_0
 
 ---
