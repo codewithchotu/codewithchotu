@@ -91,15 +91,17 @@
 - ☁️ Exploring Kubernetes, cloud-native technologies, and open-source infrastructure.
 - 🌱 Exploring opportunities in **Google Summer of Code (GSoC)** and **LFX Mentorship**.
 
-### 🏆 Featured Open-Source Contribution
 
-**Cloud-Native MERN Application Architecture**
+### 🏆 Featured Open-Source Contribution
 
 My architecture pattern was officially approved and published in the Meshery Catalog!
 
-[🔗 View My Published Meshery Pattern](https://cloud.meshery.io/catalog/content/catalog/cloud-native-mern-application-architecture-15d7806e-4954-4e02-b777-1919a4857242)
+[![Meshery Pattern Published](https://img.shields.io/badge/Meshery-Pattern%20Published-00BFA5?style=for-the-badge)](https://cloud.meshery.io/catalog/content/catalog/cloud-native-mern-application-architecture-15d7806e-4954-4e02-b777-1919a4857242)
 
----
+**Cloud-Native MERN Application Architecture**
+
+[🔗 View Published Pattern](https://cloud.meshery.io/catalog/content/catalog/cloud-native-mern-application-architecture-15d7806e-4954-4e02-b777-1919a4857242)
+
 
 ---
 
