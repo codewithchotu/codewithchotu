@@ -82,11 +82,15 @@
 
 # 🌟 Open Source Journey
 
-- 🚀 Contributing to open-source projects and communities.
-- 🏅 Ranked #359 globally in GirlScript Summer of Code 2026.
-- 💻 Contributed to projects including Accord Project and PictoPy.
-- 🔧 Working with Git, GitHub, pull requests and collaborative development.
-- 🌱 Exploring opportunities in GSoC and LFX Mentorship.
+- 🚀 Actively contributing to open-source projects and developer communities.
+- 🏅 Ranked **#359 globally in GirlScript Summer of Code 2026**.
+- 🌐 Created a **Cloud-Native MERN Application Architecture** pattern, officially approved and published in the Meshery Catalog.
+- 💻 Contributing to projects including **Accord Project and PictoPy**.
+- 🔧 Experienced with Git, GitHub, pull requests, code reviews, and collaborative development.
+- ☁️ Exploring Kubernetes, cloud-native technologies, and open-source infrastructure.
+- 🌱 Exploring opportunities in **Google Summer of Code (GSoC)** and **LFX Mentorship**.
+
+🔗 **Meshery Published Contribution:** [View My Architecture Pattern](https://cloud.meshery.io/catalog/content/catalog/cloud-native-mern-application-architecture-15d7806e-4954-4e02-b777-1919a4857242)
 
 ---
 
